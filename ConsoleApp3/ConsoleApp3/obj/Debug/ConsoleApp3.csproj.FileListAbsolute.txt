@@ -1,0 +1,7 @@
+D:\Самостоятельная работа Методы\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\Самостоятельная работа Методы\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\Самостоятельная работа Методы\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\Самостоятельная работа Методы\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+D:\Самостоятельная работа Методы\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\Самостоятельная работа Методы\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\Самостоятельная работа Методы\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
